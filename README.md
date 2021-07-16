@@ -1,5 +1,5 @@
 # Terraform-Azure-Windows
-Terraform scripts in Azure for Windows
+Terraform scripts in Azure for Windows server 2019
 
 while setup.
 1) each version had different/ changes in attributes, should be careful
